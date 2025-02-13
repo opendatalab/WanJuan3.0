@@ -93,7 +93,7 @@ WanJuanSiLu（“万卷·丝路”）一个作为综合性的纯文本语料库�
   </tr>
 </table>
 
-为了实现多维度的数据质量评估，我们采用了基于大语言模型的开源评估工具 dingo(https://github.com/DataEval/dingo)对语料数据进行综合评分。为了验证清洗后数据的质量水平，我们选取了三个有影响力的多语言公开数据集进行对比分析。
+为了实现多维度的数据质量评估，我们采用了基于大语言模型的开源评估工具 dingo(https://github.com/DataEval/dingo) 对语料数据进行综合评分。为了验证清洗后数据的质量水平，我们选取了三个有影响力的多语言公开数据集进行对比分析。
 
 <div align="center">
     <img src="readme_pic/quality_eval.jpg" width="800">
