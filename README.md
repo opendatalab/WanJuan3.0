@@ -1,5 +1,4 @@
 # WanJuan3.0
-
 ![](readme_pic/cover.png)
 WanJuanSiLu（“万卷·丝路”）一个作为综合性的纯文本语料库，收集了多个国家地区的网络公开信息、文献、专利等资料，数据总规模超 1.2TB，Token 总数超过 300B（300 billion），处于国际领先水平。首期开源的语料库主要由泰语、俄语、阿拉伯语、韩语和越南语 5 个子集构成，每个子集的数据规模均超过 150GB。
 
@@ -121,7 +120,6 @@ WanJuan3.0（万卷·丝路）整体采用 CC BY 4.0 许可协议。您可以自
 OpenDataLab 作为非盈利机构，倡导和谐友好的开源交流环境，若在开源数据集内发现有侵犯您合法权益的内容，可发送邮件至（OpenDataLab@pjlab.org.cn），邮件中请写明侵权相关事实的详细描述并向我们提供相关的权属证明资料。我们将于 3 个工作日内启动调查处理机制，并采取必要的措施进行处置（如下架相关数据）。但您应确保您投诉的真实性，否则采取措施后所产生的不利后果应由您独立承担。
 
 ## 引文
-
 ```
 @misc{yu2025wanjuansiluhighqualityopensourcewebtext,
       title={WanJuanSiLu: A High-Quality Open-Source Webtext Dataset for Low-Resource Languages},
@@ -132,5 +130,4 @@ OpenDataLab 作为非盈利机构，倡导和谐友好的开源交流环境，�
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2501.14506},
 }
-
 ```
