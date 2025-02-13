@@ -1,6 +1,6 @@
 # WanJuan3.0
 ![](readme_pic/cover.png)
-WanJuanSiLu（“万卷·丝路”）一个作为综合性的纯文本语料库，收集了多个国家地区的网络公开信息、文献、专利等资料，数据总规模超 1.2TB，Token 总数超过 300B（300 billion），处于国际领先水平。首期开源的语料库主要由泰语、俄语、阿拉伯语、韩语和越南语 5 个子集构成，每个子集的数据规模均超过 150GB。
+WanJuan3.0（“万卷·丝路”）一个作为综合性的纯文本语料库，收集了多个国家地区的网络公开信息、文献、专利等资料，数据总规模超 1.2TB，Token 总数超过 300B（300 billion），处于国际领先水平。首期开源的语料库主要由泰语、俄语、阿拉伯语、韩语和越南语 5 个子集构成，每个子集的数据规模均超过 150GB。
 
 ## 下载链接
 
@@ -20,7 +20,7 @@ WanJuanSiLu（“万卷·丝路”）一个作为综合性的纯文本语料库�
     <img src="https://github.com/opendatalab/WanJuan3.0/raw/main/readme_pic/pipeline.png?raw=true" width="800">
 </div>
 <p align="center">
-  <b> WanJuanSiLu数据处理流程图 </b>
+  <b> WanJuan3.0数据处理流程图 </b>
 </p>
 
 1. 数据抽取与格式化
