@@ -17,7 +17,7 @@ WanJuanSiLu（“万卷·丝路”）一个作为综合性的纯文本语料库�
 为充分体现多语言特色、全面提升数据质量与适用性，我们设计了一套精细化的数据处理流程。该流程有效融合多语言特点与行业通识技术，为多语言模型训练提供了高质量、安全可靠的数据基础。
 
 <div align="center">
-    <img src="readme_pic/pipeline.png" width="800">
+    <img src="https://github.com/opendatalab/WanJuan3.0/raw/main/readme_pic/pipeline.png?raw=true" width="800">
 </div>
 <p align="center">
   <b> WanJuanSiLu数据处理流程图 </b>
